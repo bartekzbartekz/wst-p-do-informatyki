@@ -1,0 +1,21 @@
+		ZAD 1
+
+3 razy orze³    ooor ooro oroo rooo
+
+3 razy reszka   rrro rror rorr orrr
+
+
+
+Oba zdania zawieraj¹ dok³adnie tyle samo informacji
+
+
+
+Informacja = (1/2 * 1/2 * 1/2 * 1/2) * 4= 0,25 bitów
+
+
+		ZAD 2
+Prawdopodobieñstwo = 1/2^n
+
+		
+		H=(suma (1/2^n) * log_2 (2^n)
+

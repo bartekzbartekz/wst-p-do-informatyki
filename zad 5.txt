@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<Sklep>
+    
+	<Dzialy>
+        
+		<Papierniczy>Kartki a4, spinacze, notesy </Papierniczy>
+        
+		<Napoje> coca cola, sprite, woda mineralna </Napoje>
+        
+		<Pieczywo> chleb, bulki </Pieczywo>
+        
+		<Dzieciecy>
+            
+			<najmlodsi> smoczek, pieluchy </najmlodsi>
+            
+			<starszaki> pilka, auto zabawkowe, </starszaki>
+        
+		</Dzieciecy>
+    
+	</Dzialy>
+
+</Sklep>
