@@ -1,0 +1,1 @@
+# wst-p-do-informatyki
